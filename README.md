@@ -27,5 +27,5 @@ In my GitHub, you will find:
 
 If you have any questions, please feel free to contact me:
 
-📧 Email: danielleandro.pd@gmail.com;
-💼 LinkedIn: https://www.linkedin.com/in/daniel-pajita-dominguez/
+- 📧 Email: [danielleandro.pd@gmail.com](mailto:danielleandro.pd@gmail.com)
+- 💼 LinkedIn: [daniel-pajita-dominguez](https://www.linkedin.com/in/daniel-pajita-dominguez/)
