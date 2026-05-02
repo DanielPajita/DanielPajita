@@ -25,4 +25,7 @@ In my GitHub, you will find:
 - 📦 Applied econometric work;
 - 📝 Notes and materials from my studies in data science.
 
-If you have any questions or would like to collaborate, feel free to reach out!
+If you have any questions, please feel free to contact me:
+
+📧 Email: danielleandro.pd@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/daniel-pajita-dominguez/
