@@ -6,9 +6,9 @@ I am Daniel Pajita, an economist and Master's student in Data Science.
 
 My main interests are:
 
-- **Causal inference**, driven by my strong interest in econometrics and quantitative methods;
-- **Public policy analysis**, based on my experience working with institutions such as MTPE, SUNEDU, and PRODUCE in Peru;
-- **Data analysis**, particularly through hands-on experience cleaning and processing large administrative datasets;
+- **Causal inference**, driven by my strong interest in econometrics and quantitative methods.
+- **Public policy analysis**, based on my experience working with institutions such as MTPE, SUNEDU, and PRODUCE in Peru.
+- **Data analysis**, particularly through hands-on experience cleaning and processing large administrative datasets.
 - **History**, as a personal intellectual interest that complements my analytical perspective.
 
 I enjoy working at the intersection of economics and data science, applying quantitative tools to understand real-world problems.
