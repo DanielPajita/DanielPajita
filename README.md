@@ -20,9 +20,9 @@ I mainly work with:
 
 In my GitHub, you will find:
 
-- 📊 Data analysis projects;
-- 🧪 Scripts for data cleaning and processing;
-- 📦 Applied econometric work;
+- 📊 Data analysis projects.
+- 🧪 Scripts for data cleaning and processing.
+- 📦 Applied econometric work.
 - 📝 Notes and materials from my studies in data science.
 
 If you have any questions, please feel free to contact me:
