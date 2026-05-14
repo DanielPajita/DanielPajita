@@ -15,15 +15,16 @@ I enjoy working at the intersection of economics and data science, applying quan
 
 I mainly work with:
 
-- 🐍 Python  
-- 📊 Stata  
+- 🐍 Python
+- 📊 Stata
+- 🔵 R
 
 In my GitHub, you will find:
 
-- 📊 Data analysis projects.
-- 🧪 Scripts for data cleaning and processing.
-- 📦 Applied econometric work.
-- 📝 Notes and materials from my studies in data science.
+- 📊 Data analysis projects
+- 🧪 Scripts for data cleaning and processing
+- 📦 Applied econometric work
+- 📝 Notes and materials from my studies in data science
 
 If you have any questions, please feel free to contact me:
 
