@@ -9,6 +9,7 @@ I work at the intersection of economics and data science, applying quantitative 
 - 🧪 **Causal inference and econometrics:** methods for evaluating interventions and understanding their effects.
 - 🏛️ **Public policy analysis:** using evidence to inform policy decisions.
 - 📊 **Data preparation and analysis:** cleaning, integrating, and analyzing survey and administrative data.
+- 📚 **History:** a personal intellectual interest that complements my analytical perspective.
 
 ## 🛠️ Tools
 
@@ -16,18 +17,9 @@ I work at the intersection of economics and data science, applying quantitative 
 - 📊 **Stata**
 - 🔵 **R**
 
-## 🚧 What I’m working on
+## 💻 About this GitHub
 
-I’m developing a portfolio of reproducible projects using public data, starting with:
-
-- 🧹 **ENAHO data pipeline:** downloading, integrating, and preparing Peru’s National Household Survey in Python.
-- 🎓 **University enrollment in Peru:** analyzing socioeconomic and territorial factors associated with university enrollment.
-
-As these projects become available, I’ll add links and results here.
-
-## 📚 Beyond data
-
-I’m also interested in **history**, which complements my perspective on institutions and social change.
+This GitHub is a space to share code, analytical methods, and learning resources in economics and data science, alongside notes on world and Peruvian history shaped by my source selection and critical analysis, with NotebookLM supporting synthesis and organization.
 
 ## 📬 Contact
 
