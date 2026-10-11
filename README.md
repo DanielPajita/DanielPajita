@@ -1,32 +1,35 @@
-# Hi there 
+# 👋 Hi, I’m Daniel Pajita
 
-Welcome to my GitHub profile!
+I’m an economist and Master’s student in Data Science, with experience in Peru’s public sector at **MTPE, SUNEDU, and PRODUCE**.
 
-I am Daniel Pajita, an economist and Master's student in Data Science.
+I work at the intersection of economics and data science, applying quantitative methods to study public policy, particularly **employment, education, and health in Peru**.
 
-My main interests are:
+## 🎯 Areas of interest
 
-- **Causal inference**, driven by my strong interest in econometrics and quantitative methods.
-- **Public policy analysis**, based on my experience working with institutions such as MTPE, SUNEDU, and PRODUCE in Peru.
-- **Data analysis**, particularly through hands-on experience cleaning and processing large administrative datasets.
-- **History**, as a personal intellectual interest that complements my analytical perspective.
+- 🧪 **Causal inference and econometrics:** methods for evaluating interventions and understanding their effects.
+- 🏛️ **Public policy analysis:** using evidence to inform policy decisions.
+- 📊 **Data preparation and analysis:** cleaning, integrating, and analyzing survey and administrative data.
 
-I enjoy working at the intersection of economics and data science, applying quantitative tools to understand real-world problems.
+## 🛠️ Tools
 
-I mainly work with:
+- 🐍 **Python**
+- 📊 **Stata**
+- 🔵 **R**
 
-- 🐍 Python
-- 📊 Stata
-- 🔵 R
+## 🚧 What I’m working on
 
-In my GitHub, you will find:
+I’m developing a portfolio of reproducible projects using public data, starting with:
 
-- 📊 Data analysis projects
-- 🧪 Scripts for data cleaning and processing
-- 📦 Applied econometric work
-- 📝 Notes and materials from my studies in data science
+- 🧹 **ENAHO data pipeline:** downloading, integrating, and preparing Peru’s National Household Survey in Python.
+- 🎓 **University enrollment in Peru:** analyzing socioeconomic and territorial factors associated with university enrollment.
 
-If you have any questions, please feel free to contact me:
+As these projects become available, I’ll add links and results here.
 
-- 📧 Email: [danielleandro.pd@gmail.com](mailto:danielleandro.pd@gmail.com)
-- 💼 LinkedIn: [daniel-pajita-dominguez](https://www.linkedin.com/in/daniel-pajita-dominguez/)
+## 📚 Beyond data
+
+I’m also interested in **history**, which complements my perspective on institutions and social change.
+
+## 📬 Contact
+
+- 📧 **Email:** [danielleandro.pd@gmail.com](mailto:danielleandro.pd@gmail.com)
+- 💼 **LinkedIn:** [daniel-pajita-dominguez](https://www.linkedin.com/in/daniel-pajita-dominguez/)
