@@ -17,9 +17,9 @@ I work at the intersection of economics and data science, applying quantitative 
 - 📊 **Stata**
 - 🔵 **R**
 
-## 💻 About this GitHub
+## 💻 About this space
 
-This GitHub is a space to share code, analytical methods, and learning resources in economics and data science, alongside notes on world and Peruvian history shaped by my source selection and critical analysis, with NotebookLM supporting synthesis and organization.
+This is a space to share code, analytical methods, and learning resources in economics and data science, alongside notes on world and Peruvian history shaped by my source selection and critical analysis, with NotebookLM supporting synthesis and organization.
 
 ## 📬 Contact
 
